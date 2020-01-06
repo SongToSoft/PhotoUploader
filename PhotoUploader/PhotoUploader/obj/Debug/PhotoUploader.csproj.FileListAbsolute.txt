@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\bin\Debug\PhotoUploader.exe.config
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\bin\Debug\PhotoUploader.exe
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\bin\Debug\PhotoUploader.pdb
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\obj\Debug\PhotoUploader.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\obj\Debug\PhotoUploader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\obj\Debug\PhotoUploader.exe
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\obj\Debug\PhotoUploader.pdb
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\bin\Debug\WebDriver.dll
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\bin\Debug\WebDriver.xml
+C:\Users\Admin\source\repos\PhotoUploader\PhotoUploader\obj\Debug\PhotoUploader.csproj.CopyComplete
