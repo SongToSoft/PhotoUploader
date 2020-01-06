@@ -18,9 +18,14 @@ namespace PhotoUploader
             chromeDriver = new ChromeDriver();
         }
 
-        public void OpenSite(string url)
+        public void OpenBrowser(string url)
         {
             chromeDriver.Navigate().GoToUrl(url);
+        }
+
+        public void CloseBrowser()
+        {
+            chromeDriver.Quit();
         }
 
         public void ClickOnElementByName(string elementName)
@@ -69,12 +74,8 @@ namespace PhotoUploader
 
         public void UploadFile(string elementPath, string fileName)
         {
-            //var element = chromeDriver.FindElement(By.Id("uploadhere"));
-            //element.SendKeys(fileName);
             var fileInput = chromeDriver.FindElement(By.XPath(elementPath));
-            //var fileInput = chromeDriver.FindElement(By.Id("'avatar_upload'"));
             fileInput.SendKeys(fileName);
-            //fileInput.Submit();
         }
     }
 }
